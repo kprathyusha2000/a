@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 fgv
 eeerererrerewrer
+=======
+fgvfv vdf
+
+sdsasa
+>>>>>>> origin/master
